@@ -9,4 +9,4 @@ In this repository we have the solutions for the following problems from [Rosali
 
  and the following problems from [Rosalind Algorithmic-Heights]( http://rosalind.info/problems/list-view/?location=algorithmic-heights): `BINS`, `MS`.
  
-Included in the repository are the respective datasets for each problem: rosalind_{problem}.txt
+Included in the repository are the respective datasets for each problem: rosalind_{*problem*}.txt
